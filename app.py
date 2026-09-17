@@ -23,8 +23,8 @@ st.set_page_config(
 # PATHS
 # ============================================================
 
-MODEL_PATH = "models/extended_random_forest.pkl"
-TRAIN_PATH = "dataset/processed/extended_train.csv"
+MODEL_PATH = "extended_random_forest.pkl"
+TRAIN_PATH = "extended_train.csv"
 
 
 # ============================================================
